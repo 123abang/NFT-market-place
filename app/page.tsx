@@ -24,7 +24,7 @@ export default function Home() {
             </div>
             <span className="font-bold text-xl">NEXUS</span>
           </Link>
-
+          
           <nav className="hidden md:flex items-center gap-8">
             <Link href="/marketplace" className="text-zinc-400 hover:text-white transition-colors">
               Marketplace
